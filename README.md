@@ -1,9 +1,8 @@
-* 👋 Vivan Raj | 💻 Full Stack Dev | 🚀 Building real apps
-* 👨‍💻 Vivan | ⚡ React • Node • MongoDB
-* 💻 Full Stack Developer | 🛠️ Backend + UI
-* 🚀 Vivan Raj | 🔧 Web Dev | 🧠 Problem Solver
-* 👨‍💻 Vivan | 💻 Code • Build • Improve
-
+* 👋 Vivan Raj
+* 💻 Full Stack Dev
+* ⚡ React • Node • MongoDB
+* 🧠 Solve • Build • Repeat
+* 🚀 Shipping real things
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vivan-raj-mittakodi-548216291/) 
